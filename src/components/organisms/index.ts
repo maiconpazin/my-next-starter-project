@@ -1,0 +1,13 @@
+export { default as AboutUs } from './AboutUs';
+export { default as BestOffers } from './BestOffers';
+export { default as CartFooter } from './CartFooter';
+export { default as Contact } from './Contact';
+export { default as FindQuotes } from './FindQuotes';
+export { default as Footer } from './Footer';
+export { default as Header } from './Header';
+export { default as Hero } from './Hero';
+export { default as QuotasSearchForm } from './QuotasSearchForm';
+export { default as QuotasTable } from './QuotasTable';
+export { default as QuotasTitle } from './QuotasTitle';
+export { default as Testimonials } from './Testimonials';
+export { default as WhyUs } from './WhyUs';
